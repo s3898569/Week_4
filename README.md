@@ -1,5 +1,5 @@
 # Main Title (H1)
-This is the main heading of your project.
+Week 4 NDVI 
 ## Section Title (H2)
 Use `##` for section headings.
 ### Subsection Title (H3)
